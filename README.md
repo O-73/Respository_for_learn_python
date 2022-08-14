@@ -1,0 +1,2 @@
+# Respository_for_learn_python
+这是一个我用来学习Python的仓库
