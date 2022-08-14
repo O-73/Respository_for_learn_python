@@ -1,2 +1,5 @@
 # Respository_for_learn_python
 这是一个我用来学习Python的仓库
+
+# 测试
+首先测试一下githun以及git的连接是否稳定
